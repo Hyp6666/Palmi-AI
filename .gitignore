@@ -1,0 +1,19 @@
+# Model files (too large for git)
+*.gguf
+
+# Xcode user data
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+
+# Build products
+build/
+DerivedData/
+*.xcarchive
+
+# OS files
+.DS_Store
+
+# Claude / Codex
+.claude/
+AGENTS.md
